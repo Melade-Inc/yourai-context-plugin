@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "yourai-context",
+  "displayName": "YourAI Context",
+  "version": "1.0.0",
+  "description": "Private organization knowledge and recent computer context from YourAI.",
+  "author": {
+    "name": "YourAI",
+    "email": "support@yourai.com",
+    "url": "https://yourai.com"
+  },
+  "homepage": "https://yourai.com/docs/context",
+  "repository": "https://github.com/Melade-Inc/yourai-context-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "context",
+    "knowledge",
+    "productivity",
+    "mcp",
+    "yourai"
+  ],
+  "mcpServers": "./mcp.json"
+}

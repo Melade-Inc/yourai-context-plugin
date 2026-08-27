@@ -27,6 +27,16 @@ For local development, copy this repository to:
 
 Then restart Cursor or run **Developer: Reload Window**.
 
+## Install in Claude Code
+
+After the plugin is published, find **YourAI Context** in the official plugin marketplace, choose **Install**, and complete the YourAI sign-in and consent flow when first prompted.
+
+For local development, run:
+
+```text
+claude --plugin-dir /path/to/yourai-context-plugin
+```
+
 ## Example requests
 
 - "What was I working on this morning?"

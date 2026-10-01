@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yourai-context": {
+      "type": "http",
+      "url": "https://yourai.com/mcp"
+    }
+  }
+}

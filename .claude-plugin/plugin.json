@@ -19,5 +19,5 @@
     "mcp",
     "yourai"
   ],
-  "mcpServers": "./mcp.json"
+  "mcpServers": "./.mcp.json"
 }
